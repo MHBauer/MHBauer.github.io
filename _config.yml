@@ -12,6 +12,12 @@ url: "http://mhbauer.github.io"
 github_username: MHBauer
 linkedin_username : morganbauer
 
+
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+
 # Build settings
 markdown: kramdown
 
