@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "golang gotchas"
-date:   2015-08-05 12:09:52
+date:   2015-08-05 
 categories: golang
 ---
 
