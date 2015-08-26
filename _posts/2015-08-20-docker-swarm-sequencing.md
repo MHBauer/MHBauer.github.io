@@ -23,6 +23,10 @@ swarm binary is both a client and a server, depending on the invocation. The swa
   This needs to run on an endpoint that is a host server with docker.
 * swarm manage -  host server command that starts a webserver with the Docker api.
   talks to the managed nodes. The managed nodes need to be running `docker daemon`.
+  `swarm manage -H` is like `docker daemon -H`.
+  You are specifying the IP and port to listen for connections from,
+  so typically that is 0.0.0.0 to listen for connections from any IP,
+  and a specific port like 3376 (which is a take on the original docker tls port of 2376).
 
 Docker is used to talk to the swarm manager. The manager talks to each
 node, and each node is the docker daemon running on the host. Thus,
@@ -31,4 +35,4 @@ docker client used by the user, and a client to the docker daemons in
 the swarm.
 
 
-![why isn't this changing]({{ site.url }}/images/swarm diagram.png)
+![swarm communication diagram]({{ site.url }}/images/swarm diagram.png)
