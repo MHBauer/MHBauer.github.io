@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   work blog
 baseurl: ""
 url: "http://mhbauer.github.io" 
-#twitter_username: 
+twitter_username: ibmhb
 github_username: MHBauer
 linkedin_username : morganbauer
 
