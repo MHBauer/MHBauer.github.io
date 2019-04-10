@@ -1,0 +1,54 @@
+https://keybase.io/mhb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mhbauer.github.io
+  * I am mhb (https://keybase.io/mhb) on keybase.
+  * I have a public key ASCv3Y0yVcsif4vACmLPvGsNbXJcs29s_7prFV2UForzNQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010143f6ea3f070d5a336434a88727d997659b47684919ce328cc40d2e66b399a5560a",
+      "host": "keybase.io",
+      "kid": "0120afdd8d3255cb227f8bc00a62cfbc6b0d6d725cb36f6cffba6b155d94168af3350a",
+      "uid": "ed2545dfb516f5efcbd91b24628f6c19",
+      "username": "mhb"
+    },
+    "merkle_root": {
+      "ctime": 1554854714,
+      "hash": "2056b1336b4b58c5fbab28126707dbbe2eb31a418c86ac5cddc6e67cf5fe13d15a61edb5f8f0f21ccbe6a094cc2f0c52df94195aabe81baf88ee784cab5f2fcf",
+      "hash_meta": "e13a1fbddaa2930c5bd40c4e08133ff419322841b08bad55e00a7f0b10655cf9",
+      "seqno": 5130592
+    },
+    "service": {
+      "entropy": "Hs3cAFAPoTY7jB2OzKCDiy2r",
+      "hostname": "mhbauer.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554854798,
+  "expire_in": 504576000,
+  "prev": "e8a0ed44e694969b74db4913748b484d0525c4edd6e47746e13b7d7c9e07fe24",
+  "seqno": 105,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgr92NMlXLIn+LwApiz7xrDW1yXLNvbP+6axVdlBaK8zUKp3BheWxvYWTESpcCacQg6KDtROaUlpt020kTdItITQUlxO3W5HdG4Tt9fJ4H/iTEIP76wR/LKrF0e0Z8Y1340BOXrn/PNk9KRUeA+HxH0/vCAgHCo3NpZ8RAoULwTCGOT398+KRHbmdxAKh1/dP+GByVeBcDOeuFlnFC9e+MFdcYKQaN8fJ36WOeLPpUTf4jFup+oH8wzBriDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIESpW1zARRnUdrfxztqeTDgmQRbPrupGsH8EnZCro1Uko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mhb
+
